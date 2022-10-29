@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">T2a4climentcarles</string>
+    <string name="welcome">Bienvenido a tu banco</string>
+    <string name="buttonwelcome">Entrar</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="telogin">Usuario</string>
+    <string name="tepassword">Contraseña</string>
+    <string name="buttonexit">Salir</string>
+</resources>

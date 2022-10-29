@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gym Routine</string>
+    <string name="bienvenida">Welcome!</string>
+    <string name="botonentrar">Get in</string>
+</resources>

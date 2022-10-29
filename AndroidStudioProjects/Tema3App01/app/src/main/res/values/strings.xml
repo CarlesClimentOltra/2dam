@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="game">Start game</string>
+    <string name="configure_game">Configure game</string>
+    <string name="see_ranking">See ranking</string>
+    <string name="about_this">About this</string>
+    <string name="exit">Exit</string>
+</resources>
